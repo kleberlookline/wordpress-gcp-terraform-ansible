@@ -1,6 +1,0 @@
-# Configura o Provider Google Cloud com o Projeto
-provider "google" {
-  credentials = file("/vagrant/affable-tribute-260200-kleber.json")
-  project     = "affable-tribute-260200-kleber"
-  region      = "us-central1"
-}

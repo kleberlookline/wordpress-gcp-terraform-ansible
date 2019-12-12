@@ -2,4 +2,4 @@
 *tfstate*
 variables.tf
 .terraform
-
+.gitignore
